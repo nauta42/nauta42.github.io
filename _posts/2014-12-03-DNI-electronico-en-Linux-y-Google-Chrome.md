@@ -4,12 +4,12 @@ Esta pequeña guía es para conseguir que el DNIe FUNCIONE en Google Chrome bajo
 Los pasos a añadir a esta [excelente guía de juanetel][1] son bastante simples.
 Que yo sepa *NO* he encontrado ninguna otra guía que explique cómo hacerlo.
 
-## ENTORNO
+### ENTORNO
 * Linux Mint 17 (64bits) - basado en UBUNTU 14.04
 * Google Chrome v39 - posiblemente funcione en otras versiones
 * Smartcard reader C3PO LTC31
 
-## PASOS
+### PASOS
 1. Usar [esta guía][1] hasta conseguir que funcione el DNIe en FIREFOX
 2. Los pasos adicionales que he añadido se basan en [esto][2] y son:
   1. Instalar NSS tools
