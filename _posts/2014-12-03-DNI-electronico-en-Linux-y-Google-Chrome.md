@@ -1,4 +1,4 @@
-# GUIA PARA INSTALAR SOPORTE DE DNIe EN GOOGLE CHROME
+## SOPORTE PARA DNIe EN GOOGLE CHROME BAJO LINUX
 
 Esta pequeña guía es para conseguir que el DNIe FUNCIONE en Google Chrome bajo Linux.
 Los pasos a añadir a esta [excelente guía de juanetel][1] son bastante simples.
