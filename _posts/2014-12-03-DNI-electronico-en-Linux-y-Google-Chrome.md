@@ -26,6 +26,6 @@ Pedirá la clave y deberían aparecer los certificados del DNIe.
 
 Este documento puede usarse libremente.
 
-REFERENCIAS
+### REFERENCIAS
 [1]: http://www.ubuntu-guia.com/2014/04/instalar-dni-electronico-en-ubuntu.html#
 [2]: https://help.ubuntu.com/community/CommonAccessCard#Google_Chrome.2BAC8-Chromium_Setup
