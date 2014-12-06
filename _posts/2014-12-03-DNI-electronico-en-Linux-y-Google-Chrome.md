@@ -17,12 +17,12 @@ Que yo sepa _NO_ he encontrado ninguna otra guía que explique cómo hacerlo.
 ### PASOS
 1. Usar [esta guía][1] hasta conseguir que funcione el DNIe en FIREFOX
 2. Los pasos adicionales que he añadido se basan en [esto][2] y son:
-  1. Instalar NSS tools  
+  1. Instalar NSS tools:  
          `sudo apt-get install libnss3-tools`
   2. CERRAR todos los navegadores (IMPORTANTE!)
-  3. Añadir el módulo DNIe_Module (se puede poner otro nombre)
+  3. Añadir el módulo DNIe_Module (se puede poner otro nombre):  
         `modutil -dbdir sql:.pki/nssdb/ -add "DNIe_Module" -libfile /usr/lib/opensc-pkcs11.so`
-  4. Comprobar que se ha añadido a la lista
+  4. Comprobar que se ha añadido a la lista:  
         `modutil -dbdir sql:.pki/nssdb/ -list`
 
 Con esto ya debería estar; para comprobarlo insertar el DNI, abrir el Chrome y
