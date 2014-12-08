@@ -1,4 +1,4 @@
-This directory is for the posts in English
-------------------------------------------
+## This directory is for posts in English
+
 - Translations
 - Articles only relevants for english-related world
